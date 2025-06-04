@@ -6,12 +6,21 @@ This interactive dashboard provides a comprehensive performance overview of Coca
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "coca-cola_data.csv" file, containing detailed information about each sale made by the company in different region.
+Sales Data: The primary dataset used for this analysis is the "coca-cola dataset.xlsx " file, containing detailed information about each sale made by the company in different region. It contains
+- Sales data (2022 & 2023)
+- Retailer names
+- Beverage brand and companies
+- Regional sales info
+- Unit price, quantity sold and profit
+
 
 ### Key Features
 Executive summary metrics of Total Sales, Units Sold, Average Price and Total Operating Profit
 - Brand Level Sales Analysis
-- Retailer Performance Breakdown
+- Retailer Performance Breakdown by Beverage brand
+- Sales and Operating profit margin trend quarterly
+- Interactives Region and Years slicers
+- Dynamic Visualization created with Excel
 
 ### Tools Used
 - Microsoft Excel (Dashboard design and visualization)
@@ -24,3 +33,25 @@ Executive summary metrics of Total Sales, Units Sold, Average Price and Total Op
  - Track quarterly profit margins and sales flunctuation
  - Make te data accessible and interactive using Excel
  - Identify top-performing brands and target underperforming regions
+
+### Limitations
+  - Dataset limited to only two years
+  - Does not include promotional customer or inventory data
+
+ ### Problems Faced
+- Creating Dynamic Filtering Across Multiple Tables
+- Performance Optimization (managing large data sets with slicers and pivot tables)
+- Data Quality and Inconsistencies (e.g., inconsistent date formats, missing values, duplicate entries)
+
+ ### How To Use
+- Open the Excel file Coca Cola Dataset.xlsx
+- Navigate to the Dashboard sheet
+- Use the slicers on the left to filter by Region or Year
+- Explore the charts to view brand and retailer performance
+
+### Screenshot
+![Coco-Cola Dashboard](https://github.com/user-attachments/assets/8752cb33-10d5-442b-99d7-c6ebffba9902)
+
+
+
+       
