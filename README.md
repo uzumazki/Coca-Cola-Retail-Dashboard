@@ -6,6 +6,20 @@ Excel Dashboard Analyzing Coca-cola USA Retail Sales From 2022-2023
 This interactive dashboard provides a comprehensive performance overview of Coca-Cola’s retail operations across the USA. Built with a focus on clarity, interactivity, and key business KPIs, the dashboard is designed to help stakeholders track sales growth, analyze brand and retailer performance, and monitor profitability trends over time.
 
 ---
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Key Features](#key-features)
+- [Tools Used](#tools-used)
+- [Aims & Objectives](#aims--objectives)
+- [Limitations](#limitations)
+- [Challenges Faced](#challenges-faced)
+- [How to Use](#how-to-use)
+- [Screenshot](#screenshot)
+- [Conclusion](#conclusion)
+
+  
 ### Data Source
 
 Sales Data: The primary dataset used for this analysis is the "[Coca-cola dataset.xlsx](https://github.com/user-attachments/files/20597896/Coca-cola.dataset.xlsx)" file, containing detailed information about each sale made by the company in different region. It contains
@@ -40,7 +54,7 @@ Executive summary metrics of Total Sales, Units Sold, Average Price and Total Op
   - Dataset limited to only two years
   - Does not include promotional customer or inventory data
 ---
- ### Problems Faced
+ ### Challenges Faced
 - Creating Dynamic Filtering Across Multiple Tables
 - Performance Optimization (managing large data sets with slicers and pivot tables)
 - Data Quality and Inconsistencies (e.g., inconsistent date formats, missing values, duplicate entries)
@@ -54,6 +68,18 @@ Executive summary metrics of Total Sales, Units Sold, Average Price and Total Op
 ### Screenshot
 ![Coco-Cola Dashboard](https://github.com/user-attachments/assets/295473c8-b6d4-4019-9478-b811259b263e)
 
+
+---
+
+### Potential Improvement 
+- Dynamic commentary or insights (e.g., automatic highlights of best/worst performers)
+- Add regional breakdown charts to support the region slicer
+- Consider integrating forecasting models for future performance
+
+---
+
+### Conclusion
+This project successfully demonstrates how data visualization can turn raw retail data into meaningful insights for decision-making. By analyzing brand and retailer performance, tracking profit margins, and enabling year-over-year comparisons, the dashboard provides a clear, actionable view of Coca-Cola’s U.S. retail sales landscape.
 
 ---
 ### Author
