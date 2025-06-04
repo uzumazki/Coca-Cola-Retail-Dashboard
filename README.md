@@ -50,7 +50,8 @@ Executive summary metrics of Total Sales, Units Sold, Average Price and Total Op
 - Explore the charts to view brand and retailer performance
 
 ### Screenshot
-![Coco-Cola Dashboard](https://github.com/user-attachments/assets/8752cb33-10d5-442b-99d7-c6ebffba9902)
+
+
 
 
 
