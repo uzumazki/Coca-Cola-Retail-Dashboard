@@ -1,11 +1,6 @@
-Coca-Cola-Retail-Dashboard/
+# Coca-Cola Retail Dashboard
 
-├── CocaCola_Dashboard.xlsx
+### Project Overview
 
-├── README.md
+This interactive dashboard provides a comprehensive performance overview of Coca-Cola’s retail operations across the USA. Built with a focus on clarity, interactivity, and key business KPIs, the dashboard is designed to help stakeholders track sales growth, analyze brand and retailer performance, and monitor profitability trends over time.
 
-├── images/![Coca-Cola Dashboard](https://github.com/user-attachments/assets/f44f0822-8018-4b18-984c-8aff4b030d5b)
-
-│   └── dashboard_preview.png
-└── data/
-    └── sales_data.xlsx (optional)
