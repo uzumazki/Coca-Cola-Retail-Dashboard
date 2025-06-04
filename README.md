@@ -4,6 +4,7 @@ Excel Dashboard Analyzing Coca-cola USA Retail Sales From 2022-2023
 ### Project Overview
 
 This interactive dashboard provides a comprehensive performance overview of Coca-Cola’s retail operations across the USA. Built with a focus on clarity, interactivity, and key business KPIs, the dashboard is designed to help stakeholders track sales growth, analyze brand and retailer performance, and monitor profitability trends over time.
+
 ---
 ### Data Source
 
